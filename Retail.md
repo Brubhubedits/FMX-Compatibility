@@ -1,9 +1,6 @@
 > [!NOTE]
-> - Remember to patch your games! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
-> - Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
-
-> [!WARNING]
-> From now on, reports should include which patching method was used to get games to run.
+> - **Remember to patch your Games!** Be sure to follow one of the tutorials in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki) to ensure proper functionality.
+> - Before adding a `❌ Borked` Game to this list, **try removing any title updates**. Some games may only work when title updates are deleted.
 
 | Game Title                      | Works? | Method | Notes (Crashes, Fixes, Patches)                                                                                                                                           |
 |---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -72,3 +69,11 @@
 | Watch Dogs                      |   ✅   | XexTool | [Reported working](https://www.reddit.com/r/360hacks/comments/1j8hq5b) by [u/teamnefarious](https://www.reddit.com/u/teamnefarious/)                                     |
 | WWE Smackdown Vs Raw 2007       |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/14) by [GrandpaJoeTheEighth](https://github.com/GrandpaJoeTheEighth)                               |
 | WWE Smackdown Vs Raw 2011       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+
+
+| Status | Meaning |
+|--------|---------|
+| ✅ Works | Fully functional with no issues. |
+| ⚠️ Partially | Works, but has glitches or requires fixes. |
+| ❌ Borked | Does not work or crashes. |
+| 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |

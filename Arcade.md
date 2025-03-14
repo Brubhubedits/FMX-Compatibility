@@ -1,9 +1,6 @@
 > [!NOTE]
-> - Remember to patch your games if they need them! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
-> - Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
-
-> [!WARNING]
-> From now on, reports should include which patching method was used to get games to run.
+> - Remember to patch your Games if they need to be! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
+> - Before adding a Game to this list, **try removing any title updates**. Some Games may only work when title updates are deleted.
 
 | Game Title                      | Works? | Method  | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
 |---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
